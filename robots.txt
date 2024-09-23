@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://incemic.github.io/sitemap.html.gz
+Sitemap: https://incemic.github.io/app/sitemap.html.gz
+Sitemap: https://incemic.github.io/assets/sitemap.html.gz
+Sitemap: https://incemic.github.io/css/sitemap.html.gz
+Sitemap: https://incemic.github.io/data/sitemap.html.gz
+Sitemap: https://incemic.github.io/includes/sitemap.html.gz
+Sitemap: https://incemic.github.io/item/sitemap.html.gz
+Sitemap: https://incemic.github.io/src/sitemap.html.gz
